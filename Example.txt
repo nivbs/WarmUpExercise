@@ -1,0 +1,4 @@
+{
+"numbers" : [3,5,7,122,22,205,13,4],
+"calcMethods" : ["sum","digitCount","oddCount","evenCount","avg"]
+}

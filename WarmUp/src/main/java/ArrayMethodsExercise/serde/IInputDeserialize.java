@@ -3,5 +3,5 @@ package ArrayMethodsExercise.serde;
 import ArrayMethodsExercise.models.JsonProperties;
 
 public interface IInputDeserialize {
-    JsonProperties deserialize();
+    JsonProperties deserialize(String path);
 }
